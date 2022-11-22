@@ -8,6 +8,9 @@ Just two files needed, maker.ps1, Star-Trek-Plex-Playlist-Maker.csv.  EDIT where
 
 Star-Trek-Plex-Playlist-Maker
 
+![](./Docs/screenshot01.png)
+![](./Docs/screenshot02.png)
+![](./Docs/screenshot03.png)
 
 Stole a lot from https://github.com/robinmalik/PSPlex to make this work
 https://thestartrekchronologyproject.blogspot.com/
