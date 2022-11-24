@@ -1,13 +1,13 @@
 <# MUST CHANGE #>
 $DefaultPlexServer = [pscustomobject]@{
-    Username="Username";
-    Token="Token";
-    UserToken= ""; <#Only needed if you use a Managed Account#>
-    PlexServer="Smeghead";
-    PlexServerHostname="192.168.11.188";
-    Protocol="http";
-    Port="32400";
-    Default="True";
+    Username           = "Username";
+    Token              = "Token";
+    UserToken          = ""; <#Only needed if you use a Managed Account#>
+    PlexServer         = "Smeghead";
+    PlexServerHostname = "192.168.11.188";
+    Protocol           = "http";
+    Port               = "32400";
+    Default            = "True";
 }
 
 
@@ -27,26 +27,26 @@ $PROLibrary = "Star Trek Shows"; <#Name of Plex Library that contains Star Trek:
 $ALT_FILMSLibrary = "Movies Normalized"; <#Name of Plex Library that contains Star Trek ALT Tine line films:#>
 $PICLibrary = "Star Trek Shows"; <#Name of Plex Library that contains Star Trek: Picard#>
 
-<# CAN CHANGE #>
-$00Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/00.png";
-$01Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/01.png";
-$02Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/02.png";
-$03Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/03.png";
-$04Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/04.png";
-$05Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/05.png";
-$06Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/06.png";
-$07Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/07.png";
-$08Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/08.png";
-$09Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/09.png";
-$10Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/10.png";
-$11Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/11.png";
-$12Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/12.png";
-$13Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/13.png";
-$14Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/14.png";
-$15Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/15.png";
-$16Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/16.png";
-$17Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/17.png";
-$18Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/18.png";
+<# CAN CHANGE #>StarTrek
+$00Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek00.jpg";
+$01Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek01.jpg";
+$02Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek02.jpg";
+$03Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek03.jpg";
+$04Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek04.jpg";
+$05Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek05.jpg";
+$06Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek06.jpg";
+$07Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek07.jpg";
+$08Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek08.jpg";
+$09Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek09.jpg";
+$10Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek10.jpg";
+$11Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek11.jpg";
+$12Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek12.jpg";
+$13Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek13.jpg";
+$14Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek14.jpg";
+$15Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek15.jpg";
+$16Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek16.jpg";
+$17Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek17.jpg";
+$18Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek18.jpg";
 
 
 <# NEVER CHANGE#>
