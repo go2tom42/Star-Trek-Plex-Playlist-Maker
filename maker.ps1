@@ -27,7 +27,7 @@ $PROLibrary = "Star Trek Shows"; <#Name of Plex Library that contains Star Trek:
 $ALT_FILMSLibrary = "Movies Normalized"; <#Name of Plex Library that contains Star Trek ALT Tine line films:#>
 $PICLibrary = "Star Trek Shows"; <#Name of Plex Library that contains Star Trek: Picard#>
 
-<# CAN CHANGE #>StarTrek
+<# CAN CHANGE #>
 $00Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek00.jpg";
 $01Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek01.jpg";
 $02Poster = "https://github.com/go2tom42/Star-Trek-Plex-Playlist-Maker/raw/master/StarTrek02.jpg";
