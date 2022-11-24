@@ -560,3 +560,5 @@ function play100 {
         }
     }  
 }
+
+mainMenu
